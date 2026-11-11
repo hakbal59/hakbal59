@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[YOUR_USERNAME].[YOUR_USERNAME]&left_color=black&right_color=blue" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hakbal59.hakbal59&left_color=black&right_color=blue" alt="Visitor Count" />
 </p>
 
 ### 👨‍💻 About Me
@@ -37,8 +37,8 @@
 ### 🐍 My Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakbal59/hakbal59/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakbal59/hakbal59/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hakbal59/hakbal59/output/github-snake.svg" />
   </picture>
 </p>
