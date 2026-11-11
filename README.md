@@ -28,11 +28,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hakbal59&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakbal59&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" height="150" alt="Top Languages" />
-</p>
+
 
 ### 🐍 My Contribution Graph
 <p align="center">
